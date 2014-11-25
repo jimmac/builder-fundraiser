@@ -15,7 +15,10 @@
    id="svg7361"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="shell.svg"
+   inkscape:export-filename="/home/jimmac/src/git/builder-fundraiser/assets/shell.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs7363">
     <radialGradient
@@ -57,11 +60,11 @@
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1376"
-     inkscape:window-x="0"
+     inkscape:window-width="614"
+     inkscape:window-height="399"
+     inkscape:window-x="1928"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7366">
     <rdf:RDF>
